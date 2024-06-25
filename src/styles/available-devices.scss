@@ -12,6 +12,7 @@
     grid-template-columns: repeat(4, 1fr);
 
     &__item {
+      list-style: none;
       text-align: center;
 
       h4 {
